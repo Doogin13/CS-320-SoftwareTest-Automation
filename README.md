@@ -14,4 +14,5 @@ I interpret user needs and incorporate them into a program by ensuring I have a 
 
 How do I approach designing software?
 
-I approach designing software by breaking the software down into smaller parts and then develop and test the smaller parts. 
+I approach designing software with an open mind and and a willingness to develop a product that satisfies the needs of the users. Being objective rather than subjective will allow my mind to  
+explore new heights in software development.
